@@ -115,7 +115,7 @@ body{
   font-size: 17px;
 }
 .greece{
-  background-image: url(/img/back.jpg) ;
+  background-image: url(img/back.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
   height: 606px;
